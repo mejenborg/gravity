@@ -1,6 +1,6 @@
 # Gravity
 
-A full-stack application with a NestJS GraphQL backend and React frontend.
+Gravity is a centralized control panel for managing a suite of applications. It leverages AI — powered by GitHub Copilot — to automate tasks such as feature development, advertising, and other recurring workflows across different projects.
 
 ## Workspace Structure
 
