@@ -36,6 +36,13 @@ description: General communication preferences, bilingual context (Danish/Englis
    - Use available tools (like `#runTasks` or CLI test commands) to verify.
 5. **Review**: Challenge your own work. "Would a lead engineer approve this?" "Is there a more elegant way?"
 
+## MCP Server Usage (Mandatory)
+
+- **Always use Context7 MCP for library/framework documentation:** Before coding against external libraries, resolve the correct Context7 library ID and retrieve up-to-date docs and examples.
+- **Always use Microsoft Learn MCP for Microsoft/Azure topics:** Use Microsoft Learn search first for breadth, code sample search for implementation snippets, and fetch for full-page depth when needed.
+- **Do not rely on memory for API details:** Verify uncertain APIs, options, flags, version-specific behavior, and examples through these MCP servers first.
+- **Treat both MCP servers as default research tools:** Use them proactively, not only when explicitly requested.
+
 ## Problem Solving & Code Generation
 
 - **Explain the 'Why':** When providing a solution, briefly explain _why_ you chose that approach, especially if it corrects a misconception in my original prompt.
