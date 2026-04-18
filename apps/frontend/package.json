@@ -1,0 +1,35 @@
+{
+    "name": "@gravity/frontend",
+    "version": "0.0.1",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "tsc && vite build",
+        "preview": "vite preview",
+        "lint": "eslint src",
+        "lint:fix": "eslint src --fix"
+    },
+    "dependencies": {
+        "@mui/material": "^6.5.0",
+        "@mui/icons-material": "^6.5.0",
+        "@emotion/react": "^11.14.0",
+        "@emotion/styled": "^11.14.0",
+        "@tanstack/react-router": "^1.63.2",
+        "react": "^19.0.0",
+        "react-dom": "^19.0.0"
+    },
+    "devDependencies": {
+        "@types/react": "^19.0.0",
+        "@types/react-dom": "^19.0.0",
+        "@vitejs/plugin-react": "^4.3.2",
+        "@typescript-eslint/eslint-plugin": "^8.58.2",
+        "@typescript-eslint/parser": "^8.58.2",
+        "eslint": "^10.2.1",
+        "eslint-config-prettier": "^10.1.8",
+        "eslint-plugin-react-hooks": "^4.6.2",
+        "prettier": "^3.8.3",
+        "typescript": "^6.0.3",
+        "vite": "^5.4.2"
+    }
+}
